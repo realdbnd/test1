@@ -1,0 +1,38 @@
+GDRE Tools v2.7.3
+Windows 10.0.26200, NVIDIA GeForce RTX 5070 Ti, vulkan
+Opening file: C:/Program Files (x86)/Steam/steamapps/common/Rocket Bot Royale/rocketbotroyale.exe
+Multiple passing candidates for bytecode version 13:
+3.5.0-stable (a7aad78), 3.2.0-stable (5565f55)
+Choosing only one that matches engine version: 3.5.0-stable (a7aad78).
+Loaded 4687 imported files
+Detected Engine Version: 3.5.1
+Detected Bytecode Revision: 3.5.0-stable (a7aad78)
+Verified 9545 files, no errors detected!
+Extracted 9545 files, no errors detected!
+Recreating plugin configs...
+Saved project config.
+
+
+********************************EXPORT REPORT********************************
+
+Totals:                                 
+Decompiled scripts:                     612
+Scripts not decompiled:                 0
+Imported resources for export session:  4687
+Successfully converted:                 4687
+Lossy:                                  0
+Rewrote metadata:                       0
+Non-importable conversions:             0
+Not converted:                          0
+Failed conversions:                     0
+-------------
+
+
+
+------------------------------------------------------------------------------------
+
+Use Godot editor version 3.5.1 (Steam edition) to edit the project.
+GodotSteam can be found here: https://codeberg.org/GodotSteam/GodotSteam/releases 
+
+*******************************************************************************
+
